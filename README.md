@@ -32,8 +32,24 @@ git clone https://github.com/Lau-Tsz-Yueng/E-Shop-Analytics.git
 cd E-Shop-Analytics
 ```
 
-3. Install the required packages:
+3. Create a virtual environment by running:
 
+```
+python -m venv env
+```
+
+4. Activate the virtual environment:
+On macOS or Linux, run:
+```
+source env/bin/activate
+```
+
+On Windows, run:
+```
+.\env\Scripts\activate
+```
+
+5. Install the required packages:
 ```
 pip install -r requirements.txt
 ```
