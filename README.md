@@ -35,7 +35,7 @@ cd E-Shop-Analytics
 3. Create a virtual environment by running:
 
 ```
-python -m venv env
+python3 -m venv env
 ```
 
 4. Activate the virtual environment
