@@ -38,7 +38,8 @@ cd E-Shop-Analytics
 python -m venv env
 ```
 
-4. Activate the virtual environment:
+4. Activate the virtual environment
+
 On macOS or Linux, run:
 ```
 source env/bin/activate
